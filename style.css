@@ -78,6 +78,22 @@ body {
   text-shadow: 0 0 10px black
 }
 
+.contact-title {
+  font-family: 'Bitter', serif;
+}
+
 .rounded-circle {
   max-width: 233px;
+}
+
+.grey-link, .grey-link:active {
+  color: #666;
+}
+
+.grey-link:hover {
+  color: #999;
+}
+
+.grey-link:focus {
+  color: #333;
 }
