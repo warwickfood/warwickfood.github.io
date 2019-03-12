@@ -56,7 +56,7 @@ body {
 ------------------------- */
 
 .featurette-divider {
-  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  margin: 2rem 0; /* Space out the Bootstrap <hr> more */
 }
 
 
@@ -75,5 +75,9 @@ body {
 
 .carousel-titles {
   font-family: 'Bitter', serif;
+  text-shadow: 0 0 10px black
+}
 
+.rounded-circle {
+  max-width: 233px;
 }
